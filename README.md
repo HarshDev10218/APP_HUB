@@ -3,6 +3,7 @@
 A Python-based multi-application hub built with Tkinter and Pygame. This project combines a scientific calculator with several mini-games inside one desktop application. Users can switch between applications from a central home screen.
 
 ✨ Features
+
 🧮 Scientific Calculator
 
 Includes support for:
