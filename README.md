@@ -19,6 +19,7 @@ Factorials
 Mathematical constants:
 π (Pi)
 e (Euler's number)
+
 🐍 Snake Game
 
 Classic Snake arcade game with:
@@ -38,6 +39,7 @@ S	Start Game
 H	View High Score
 R	Restart
 Q	Quit
+
 🚀 Space Invaders
 
 A simple Space Shooter featuring:
@@ -71,23 +73,28 @@ Tkinter (GUI)
 Pygame
 Math module
 Random module
+
 📂 Project Structure
 project/
 │
 ├── main.py
 ├── highscore.txt
 └── README.md
+
 ⚙️ Installation
+
 1. Clone the repository
 git clone https://github.com/yourusername/app-hub.git
 cd app-hub
-2. Install dependencies
+
+3. Install dependencies
 pip install pygame
 
 (Tkinter is included with most Python installations.)
 
 3. Run the program
 python main.py
+
 📸 Screens Included
 Home Screen
 Scientific Calculator
